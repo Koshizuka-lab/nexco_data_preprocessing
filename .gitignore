@@ -1,0 +1,14 @@
+Input_original_data/
+Input_processed_data/
+Competition/
+Competition2/
+ETC2.0/
+GNN_based/
+Output/
+RNN_lstm/
+clustering/
+preprocessing_visualization/
+regression/
+sample_code/
+visualization/
+preprocessing/search/route_dict.pkl
